@@ -3,4 +3,5 @@ Teste2
 valdir_branch
 branch valdir
 Criação de branch
-main
+merge local
+bruno_branch
