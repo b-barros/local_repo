@@ -1,4 +1,8 @@
 Teste1
 Teste2
+valdir_branch
+branch valdir
 Criação de branch
 merge local
+bruno_branch
+batata doce remoto
